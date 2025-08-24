@@ -12,5 +12,5 @@ public abstract class Figure implements Draw {
         return color;
     }
 
-    abstract double getArea();
+    public abstract double getArea();
 }
